@@ -1,2 +1,35 @@
-# data_science
-Meu portifólio de projetos de DS
+[![author](https://img.shields.io/badge/author-lbznancio-red.svg)](https://www.linkedin.com/in/leibniz-venâncio-3b7247178/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
+<p align="center">
+  <img src="Leibniz Venâncio.png" >
+</p>
+
+:mag: Here you'll find my Data Science and Machine Learning projects. 
+
+# About me
+
+I'm interested in data science, machine learning and artificial intelligence.
+
+My credentials include:
+
+* Graduating in Philosophy '24 (emphasis on Metaphysics, Philosophy of Nature and Classical Anthropology)
+* IT technician
+
+**Background in:** Python, Java, PHP, and SQL.
+
+**Where to find me:**
+* [LinkedIn](https://www.linkedin.com/in/leibniz-venâncio-3b7247178/)
+* [Medium](https://medium.com/@leibnizvenancio)
+
+
+## Projects:
+<sub>*UNABLE TO LOAD FOR NOW...* </sub>
+
+
+
+
+---
+
+
+
+

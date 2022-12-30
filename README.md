@@ -8,11 +8,12 @@
 
 # About me
 
-I'm interested in data science, machine learning and artificial intelligence.
+I'm a philosophy undergraduate student interested in Data Science, Machine Learning, Artificial Intelligence, and related fields.
+
 
 My credentials include:
 
-* Graduating in Philosophy '24 (emphasis on Metaphysics, Philosophy of Nature and Classical Anthropology)
+* Undergraduate in Philosophy '24 (emphasis in Metaphysics, Classical Anthropology, and Philosophy of Science)
 * IT technician
 
 **Background in:** Python, Java, PHP, and SQL.

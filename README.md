@@ -25,7 +25,7 @@ My credentials include:
 
 ## Projects:
 <sub>*Loading...* </sub>
-* **Análise dos Dados do Airbnb para Toronto**: https://bit.ly/AnalysisToronto-lbznancio
+* **Análise dos Dados do Airbnb para Toronto**: https://bit.ly/Toronto-data-analysis-lbznancio
 
 
 

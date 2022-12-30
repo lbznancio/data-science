@@ -8,7 +8,7 @@
 
 # About me
 
-I'm a philosophy undergraduate student interested in Data Science, Machine Learning, Artificial Intelligence, and related fields.
+I'm a philosophy undergraduate student interested in DS, ML, AI, and related fields.
 
 
 My credentials include:

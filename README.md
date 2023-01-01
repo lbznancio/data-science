@@ -7,7 +7,7 @@
 :mag: Here you'll find my Data Science and Machine Learning projects. 
 
 # About me
-I'm a philosophy student dipping my toes on DS, ML, and related fields.
+I'm a philosophy student dipping my toes into DS, ML, and related fields.
 
 #### Technologies I'm familiar with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

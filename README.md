@@ -28,7 +28,7 @@ I'm a philosophy student dipping my toes into DS, ML, and related fields.
 
 ## Projects
 <sub>*Loading...* </sub>
-* **Análise dos Dados do Airbnb para Toronto**: https://bit.ly/toronto-analysis-lbznancio
+* **Análise dos Dados do Airbnb para Toronto**: https://bit.ly/toronto-airbnb-data-analysis
 
 
 

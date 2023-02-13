@@ -4,7 +4,7 @@
   <img src="capa1.png" >
 </p>
 
-:mag: Here you'll find my projects in Data Science and Machine Learning. 
+:mag: Here you'll find my Data Science projects. 
 
 # About me
 I'm a philosophy student dipping my toes into DS, ML, and related fields.

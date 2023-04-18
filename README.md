@@ -28,7 +28,7 @@ I'm a philosophy student dipping my toes into DS, ML, and related fields.
 
 ## Projects
 <sub>*Loading...* </sub>
-* ** Detecção de fraudes em cartões de crédito com Machine Learning**: https://bit.ly/3MOHLg7
+* **Detecção de fraudes em cartões de crédito com Machine Learning**: https://bit.ly/3MOHLg7
 * **Uma visão do quadro atual da Covid-19 no Brasil e no mundo a partir da Ciência de Dados**: https://bit.ly/3Db0Ljg
 * **Análise dos Dados do Airbnb para Toronto**: https://bit.ly/toronto-airbnb-data-analysis
 
